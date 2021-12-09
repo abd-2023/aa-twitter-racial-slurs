@@ -1,0 +1,1 @@
+this is the solution for AffinityAnswers problem of detecting the degree of profanity by checking the racial slurs in twitter tweets
